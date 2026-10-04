@@ -1,0 +1,7 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J2,J1";"TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm";2;"Screw_Terminal_01x02";;;
+2;"C1,C3";"C_1206_3216Metric";2;"10uF";;;
+3;"C2,C4";"C_0603_1608Metric";2;"0.1uF";;;
+4;"D1";"LED_1206_3216Metric";1;"LED";;;
+5;"R1";"R_1206_3216Metric";1;"2k2";;;
+6;"U1";"SOT-223-3_TabPin2";1;"AMS1117-3.3";;;
